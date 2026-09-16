@@ -31,4 +31,4 @@ Users can filter all dashboard metrics in real-time by:
 ---
 
 ## 🖼️ Preview
-![Tableau Dashboard Preview](dashboard_preview.png)
+![Tableau Dashboard Preview](stroke_dashboard.png)
