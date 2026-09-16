@@ -32,4 +32,4 @@
 ---
 
 ## 🖼️ Попередній перегляд
-![Tableau Dashboard Preview](dashboard_preview.png)
+![Tableau Dashboard Preview](stroke_dashboard.png)
